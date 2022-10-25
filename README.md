@@ -9,12 +9,13 @@ A PROJECT BY TEAM ALGORITHM
 <li> Owusu Samuel
 <li> Bolarinwa Aishat	
 <li> Temitope Omotosho	
-<li> Raji Gbenga	Imah Gift
+<li> Raji Gbenga	
+<li> Imah Gift
 <li> Isaac Ayotamuno	
 <li> Oluwatimilehin Folarin	
 <li> Tobechukwu Okamkpa
-<li>	David Ekpo
-<li>	Igbokwe Success
+<li> David Ekpo
+<li> Igbokwe Success
 <li> Obaloluwa Gbadegesin
 <li> Stanley Okparaji
 <li> Ibrahim Bilal
@@ -28,8 +29,6 @@ Furthermore, traditional solutions are binary with limited advantages compared t
 
 
 **PROJECT WORKFLOW**
-
-The steps taken for this work are illustrated with the flowchart below: 
  
 
 **Data Sourcing** 
@@ -58,7 +57,7 @@ Traditional Machine Learning models, LSTM(Long short-term memory), Bidirectional
 
 **B.	Model Evaluation:**
  
- The tables below highlights the performance of the models considered for the multiclass classification of each of the cvss metrics and the regression models for the cvss score. The multiclass classification model evaluations were done using the F1_score metrics in the scikit-learn documentation. The F1_score ranges from 0 to 1. When F1_score is close to 1, the model is well-performing and vice versa. According to our multiclass classification models in this study, the best performing model was the BERT Transformer. Also the regression model evaluations were done using the regression metrics in the scikit-learn official documentation. Some of the metrics include: Mean Absolute Error(MAE), Root Mean Square Error(RMSE), R-square, etc. The R-square was our main evaluation metric for the various regression models used for training the data. The RandomForest Regressor was the best-performing model amongst other regression models in this study    
+The multiclass classification model evaluations were done using the F1_score metrics in the scikit-learn documentation. The F1_score ranges from 0 to 1. When F1_score is close to 1, the model is well-performing and vice versa. According to our multiclass classification models in this study, the best performing model was the BERT Transformer. Also the regression model evaluations were done using the regression metrics in the scikit-learn official documentation. Some of the metrics include: Mean Absolute Error(MAE), Root Mean Square Error(RMSE), R-square, etc. The R-square was our main evaluation metric for the various regression models used for training the data. The RandomForest Regressor was the best-performing model amongst other regression models in this study.   
  
 **C.	Model Architecture**
  
