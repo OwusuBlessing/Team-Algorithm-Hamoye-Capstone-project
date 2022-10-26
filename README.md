@@ -1,5 +1,5 @@
 
-![Logo](https://i.postimg.cc/fk4z4bVN/CAPSTONE-PROJECT.png)
+![Logo](https://i.postimg.cc/fk4z4bVN/CAPSTONE-PROJECT.png#center)
 
 
 # Cyber security: Common Vulnerabilities and Exposures (CVE)
